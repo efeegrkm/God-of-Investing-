@@ -40,12 +40,12 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/god-of-investing.git](https://github.com/your-username/god-of-investing.git)
-Open the project in Unity Hub (Recommended version: [Insert your Unity version here]).
+   git clone [https://github.com/efeegrkm/God-of-Investing.git](https://github.com/efeegrkm/God-of-Investing.git)
+Open the project in Unity Hub.
 
 Load the MainScene and press Play.
 
 📄 License
 This project is licensed under the MIT License - see the https://www.google.com/search?q=LICENSE file for details.
 
-Developed with ❤️ by [Your Name/Handle]
+Developed by Efe Görkem Akkanat.
